@@ -1,0 +1,17 @@
+C:\SchoolLibrarySystem\SchoolLibrarySystem\bin\Debug\net9.0\SchoolLibrarySystem.exe
+C:\SchoolLibrarySystem\SchoolLibrarySystem\bin\Debug\net9.0\SchoolLibrarySystem.deps.json
+C:\SchoolLibrarySystem\SchoolLibrarySystem\bin\Debug\net9.0\SchoolLibrarySystem.runtimeconfig.json
+C:\SchoolLibrarySystem\SchoolLibrarySystem\bin\Debug\net9.0\SchoolLibrarySystem.dll
+C:\SchoolLibrarySystem\SchoolLibrarySystem\bin\Debug\net9.0\SchoolLibrarySystem.pdb
+C:\SchoolLibrarySystem\SchoolLibrarySystem\obj\Debug\net9.0\SchoolLibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\SchoolLibrarySystem\SchoolLibrarySystem\obj\Debug\net9.0\SchoolLibrarySystem.AssemblyInfoInputs.cache
+C:\SchoolLibrarySystem\SchoolLibrarySystem\obj\Debug\net9.0\SchoolLibrarySystem.AssemblyInfo.cs
+C:\SchoolLibrarySystem\SchoolLibrarySystem\obj\Debug\net9.0\SchoolLibrarySystem.csproj.CoreCompileInputs.cache
+C:\SchoolLibrarySystem\SchoolLibrarySystem\obj\Debug\net9.0\SchoolLibrarySystem.dll
+C:\SchoolLibrarySystem\SchoolLibrarySystem\obj\Debug\net9.0\refint\SchoolLibrarySystem.dll
+C:\SchoolLibrarySystem\SchoolLibrarySystem\obj\Debug\net9.0\SchoolLibrarySystem.pdb
+C:\SchoolLibrarySystem\SchoolLibrarySystem\obj\Debug\net9.0\SchoolLibrarySystem.genruntimeconfig.cache
+C:\SchoolLibrarySystem\SchoolLibrarySystem\obj\Debug\net9.0\ref\SchoolLibrarySystem.dll
+C:\SchoolLibrarySystem\SchoolLibrarySystem\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\SchoolLibrarySystem\SchoolLibrarySystem\obj\Debug\net9.0\SchoolLibrarySystem.csproj.AssemblyReference.cache
+C:\SchoolLibrarySystem\SchoolLibrarySystem\obj\Debug\net9.0\SchoolLi.C1F82F7E.Up2Date

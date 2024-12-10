@@ -1,0 +1,34 @@
+[
+  {
+    "Title": "To Kill a Mockingbird",
+    "Author": "Harper Lee",
+    "ISBN": "67890",
+    "IsAvailable": true,
+    "BorrowedDate": null,
+    "DueDate": null
+  },
+  {
+    "Title": "The Great Gatsby",
+    "Author": "F. Scott Fitzgerald",
+    "ISBN": "11121",
+    "IsAvailable": true,
+    "BorrowedDate": null,
+    "DueDate": null
+  },
+  {
+    "Title": "The Monk Who Sold His Ferrari",
+    "Author": "Colwil Meakins",
+    "ISBN": "67890",
+    "IsAvailable": true,
+    "BorrowedDate": null,
+    "DueDate": null
+  },
+  {
+    "Title": "Who Will Cry When You Die",
+    "Author": "Lempy Brigit",
+    "ISBN": "11121",
+    "IsAvailable": true,
+    "BorrowedDate": null,
+    "DueDate": null
+  }
+]
